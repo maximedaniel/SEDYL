@@ -1,5 +1,3 @@
-# Shifting the Energy Demand of Your Laptop (SEDYL)
-Tool for simulating the shift of laptop battery charges, given:
-- the laptop configuration
-- the usage of the laptop 
-- the energy mix of the local electrical network
+# SESYL : Shift Energy Supply with Your Laptop
+
+A tools that helps you understand how you can reduce environnemental impact by (un)plugging your laptop according to the supply of renewable energy.
